@@ -23,5 +23,5 @@ Zaiqiuchang is a mobile app developed using React Native (RN for short), both iO
 
 ### Other resources
 
-* [React Native跨平台移动应用开发实战](https://jaggerwang.net/react-native-cross-platform-mobile-app-develop/) Articles explain the development detail
+* [React Native跨平台移动应用开发实战](https://jaggerwang.net/react-native-cross-platform-mobile-app-develop-intro/) Articles explain the development detail
 * [在球场](https://www.zaiqiuchang.com) Full functional app download page
